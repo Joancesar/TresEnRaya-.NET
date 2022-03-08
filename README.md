@@ -8,8 +8,12 @@ To run the solution you need to have the two folders "ClienteTresEnRaya" and "Tr
 ---
 
 This project is a Tic Tac Toe Game using .NET Framework 4.7.2
+
 Libraries:
-WPF for the User Interface and Sockets to do the communication
+
+WPF for the User Interface
+
+Sockets to do the communication
 
 ![Tic Tac Toe Game](preview.png)
 
